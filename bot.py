@@ -1,3 +1,4 @@
+print("Бот запущен")
 import asyncio
 import sqlite3
 from datetime import datetime
