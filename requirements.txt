@@ -3,5 +3,5 @@ aiogram==3.4.1
 apscheduler==3.10.4
 
 # Pydantic с бинарным wheel для Linux
-pydantic-core==2.14.6
+pydantic-core==2.14.6 --only-binary=:all:
 pydantic==2.6.4
