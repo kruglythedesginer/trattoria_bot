@@ -1,4 +1,4 @@
+hatchling
 aiogram==3.4.1
 apscheduler==3.10.4
 pydantic>=2.4.1,<2.6
-hatchling
